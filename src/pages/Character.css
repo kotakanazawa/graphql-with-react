@@ -1,0 +1,11 @@
+.Character {
+  display: flex;
+}
+
+.Character-content {
+  margin-left: 2rem;
+}
+
+.Character-episode {
+  margin-top: 2rem;
+}
